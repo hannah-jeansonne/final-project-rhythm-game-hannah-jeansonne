@@ -10,7 +10,7 @@ My project will be an interactive game where users have to press specified keys 
 - Falling Key Indicators
 	- Color coded particles move from the top to the bottom of the surface, deleting the particle when the correct key is pressed at the right time or the particle is off the screen.
 - Music and Mapped Indicators
-	- A music file will play during the level and the timing of the falling indicators will be mapped to the rhythm of the song
+	- A music file will play during the level and the timing of the falling indicators will be mapped to the rhythm of the song.
 - Visible Score
 	- A counter adds a score for each indicator key hit within a small time frame of the beat. The score will be visible in the corner of the level.
 - Start Menu
@@ -29,7 +29,7 @@ Ideal Outcome:
 - A start menu that leads to a playable, fully mapped level of a rhythm game. In the level, there is visual graphic interface and color coded indicators for which keys to press and when. There is also a scoring system for the players accuracy, and the player can fail the level if they are too inaccurate. At the end, the player's score is displayed, and they are given the option to play again.
 
 Minimal Viable Outcome:
-- There is a level of a rhythm game that has color coded indicators to show the player which keys to press and when. There is a basic scoring system for the player's accuracy in timing the key presses.
+- There is a playable level of a rhythm game that has color coded indicators to show the player which keys to press and when. There is a basic scoring system for the player's accuracy in timing the key presses.
 
 ## Milestones
 
@@ -39,9 +39,9 @@ Minimal Viable Outcome:
   3. Make the particles interactive by changing the score when pressing any key when the particle reaches the designated point on the screen
 
 - Week 2
-  1. Specify different particle tracks/colors to different keys
-  2. Finish mapping the song beats with particles
+  1. Specify different particle tracks/colors to different key events
+  2. Finish mapping the song beats with falling particles
 
-- Week N (Final)
+- Week 3
   1. Add start and end screen
   2. Finalize graphics to be more visually appealing
